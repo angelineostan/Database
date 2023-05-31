@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\bin\Debug\SampleDB.mdb
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\bin\Debug\DatabaseAttempt.exe.config
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\bin\Debug\DatabaseAttempt.exe
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\bin\Debug\DatabaseAttempt.pdb
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.Connection.resources
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.Form1.resources
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.exe
+C:\Users\Acer\OneDrive\Documents\Codes\DatabaseAttempt\DatabaseAttempt\obj\Debug\DatabaseAttempt.pdb
